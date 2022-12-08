@@ -6,7 +6,10 @@ Datasets:
 	• https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
 
 Questions: 
-	• Jackson: Change in transaction volume over time (that is, are credit cards transactions increasing or decreasing over time?)
+	• Jackson: Change in transaction volume over time (that is, are credit card transactions increasing or decreasing over time?)
+		1. Visualization 1: Seasonal change in transaction volume per year
+		2. Visualization 2: How transaction volume has developed over the years (including recession vs expansion data)
+		3. How have these developments impacted fraud rate?
 	• Christin: What MCCs are popular? Do these change over time?
 		1. Exploration with a write up
 		2. 1 visualization w/ write up
