@@ -1,2 +1,0 @@
-NAME = "christin"
-INITIALS = "cad"
