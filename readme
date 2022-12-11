@@ -11,10 +11,9 @@ Questions:
 		2. Visualization 2: How transaction volume has developed over the years (including recession vs expansion data)
 		3. How have these developments impacted fraud rate?
 	• Christin: What MCCs are popular? Do these change over time?
-		1. Exploration with a write up
-			Summary tables of MCC roll-up data by year and amount
-		2. 1 visualization w/ write up
-		3. 2nd visualization w/ write up
+		1. 1st visualization displays spending per MCC category per year 
+		2. 2nd visualization displays spending % per MCC Category
+		3. 3rd visualization displays locations of Business Services spending
 	• Xuan: 1. 1st visualization compares the error rate among chip, online, and swipe transactions.
 		2. 2nd visualization compares the fraud rate among chip, online, and swipe transactions.
 		3. 3rd simple visualization showcases the changes in transaction types over the years. 
