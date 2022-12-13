@@ -5,7 +5,7 @@ Requirements:
 Dataset: 
 	• https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
 
-Questions: 
+Questions addressed in this body of work: 
 	• Jackson: Change in transaction volume over time (that is, are credit card transactions increasing or decreasing over time?)
 		1. Visualization 1: Seasonal change in transaction volume per year
 		2. Visualization 2: How transaction volume has developed over the years (including recession vs expansion data)
@@ -14,9 +14,12 @@ Questions:
 		1. 1st visualization displays spending per MCC category per year 
 		2. 2nd visualization displays spending % per MCC Category
 		3. 3rd visualization compares User0's average retail spending per year against the average across all users.
+		Please note that the csvs used for MCC analysis is too large to uploaded to github and is therefore not included in this repository. 
 	• Xuan: 1. 1st visualization compares the error rate among chip, online, and swipe transactions.
 		2. 2nd visualization compares the fraud rate among chip, online, and swipe transactions.
 		3. 3rd simple visualization showcases the changes in transaction types over the years. 
+	
+	#Not yet included
 	• Saul: Fraud by online vs in person
 		1. What does fraud look like online?
 		2. What does fraud look like in person?
